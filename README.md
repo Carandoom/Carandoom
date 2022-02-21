@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christopher Henry (@Carandoom), a PhD student working in Geneva on calcium signaling
+- 👋 Hi, I’m Christopher Henry (@Carandoom), I finished a PhD on calcium signaling in Geneva
 - 👀 I’m interested in using coding to automatize routine tasks and analyse complex data sets
 - 🌱 I’m currently learning Python to use it for data analysis in machine learning and image processing
 - 📫 You can contact me by mail at carandoom@gmail.com
